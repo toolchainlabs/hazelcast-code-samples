@@ -19,3 +19,9 @@ springHibernateDB
 osgi/felix-cache/
 .java-version
 *.code-workspace
+*.swp
+
+# Pants.
+/.pants.d/
+/.pids/
+/dist/
