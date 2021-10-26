@@ -1,0 +1,3 @@
+java_sources(
+  dependencies=[],
+)

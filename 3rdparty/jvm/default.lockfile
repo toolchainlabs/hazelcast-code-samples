@@ -1,0 +1,17 @@
+[
+    {
+        "coord": {
+            "group": "com.hazelcast",
+            "artifact": "hazelcast",
+            "version": "5.0",
+            "packaging": "jar"
+        },
+        "directDependencies": [],
+        "dependencies": [],
+        "file_name": "hazelcast-5.0.jar",
+        "file_digest": {
+            "fingerprint": "dbce82a957b541989c5b776d662dfef45eeebee33fa37aae422b96b3c4633494",
+            "serialized_bytes_length": 14765677
+        }
+    }
+]
